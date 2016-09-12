@@ -76,3 +76,14 @@ fieldset[disabled] .btn-primary.active {
 .btn-primary .badge {
   color: #1a9a00;
 }
+.caret-up {
+    width: 0; 
+    height: 0; 
+    border-left: 4px solid rgba(0, 0, 0, 0);
+    border-right: 4px solid rgba(0, 0, 0, 0);
+    border-bottom: 4px solid;
+    
+    display: inline-block;
+    margin-left: 2px;
+    vertical-align: middle;
+}
