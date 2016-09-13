@@ -80,3 +80,7 @@ fieldset[disabled] .btn-primary.active {
 a.navbar-brand.page-scroll:hover, a.navbar-brand.page-scroll:focus, a.navbar-brand.page-scroll:active{
     color:#3B1261;
 }
+.btn.btn-primary.btn-xl.page-scroll:hover, .btn.btn-primary.btn-xl.page-scroll:focus, .btn.btn-primary.btn-xl.page-scroll:active{
+    color:#3B1261;
+}
+}
