@@ -83,4 +83,6 @@ a.navbar-brand.page-scroll:hover, a.navbar-brand.page-scroll:focus, a.navbar-bra
 .btn.btn-primary.btn-xl.page-scroll:hover, .btn.btn-primary.btn-xl.page-scroll:focus, .btn.btn-primary.btn-xl.page-scroll:active{
     background-color:#670067;
 }
+div.navbar-header a:hover, div.navbar-header a:focus, div.navbar-header a:active{
+    color:#670067;
 }
