@@ -77,3 +77,6 @@ fieldset[disabled] .btn-primary.active {
   color: #1a9a00;
 }
 
+a.navbar-brand.page-scroll:hover, a.navbar-brand.page-scroll:focus, a.navbar-brand.page-scroll:active{
+    color:#3B1261;
+}
