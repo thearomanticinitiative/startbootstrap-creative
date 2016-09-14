@@ -1,3 +1,6 @@
+/* Colors #126B00 dark green #1a9a00 lighter green #670067 purple  */
+
+
 header{
     background-image: url('../img/iris.jpg');
 }
@@ -12,10 +15,6 @@ hr {
 }
 a {
   color: #1a9a00;
-}
-a:hover,
-a:focus {
-  color: #eb3812;
 }
 .bg-primary {
   background-color: #1a9a00;
