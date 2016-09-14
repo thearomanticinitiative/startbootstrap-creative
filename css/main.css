@@ -80,4 +80,6 @@ fieldset[disabled] .btn-primary.active {
 .btn.btn-primary.btn-xl.page-scroll:hover, .btn.btn-primary.btn-xl.page-scroll:focus, .btn.btn-primary.btn-xl.page-scroll:active{
     background-color:#670067;
 }
-
+.text-primary{
+    color:#670067;
+}
