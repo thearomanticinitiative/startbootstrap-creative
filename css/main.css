@@ -212,6 +212,9 @@ padding-left:90px;
 .timeline-badge.purple{
     background-color:#670067!important;
 }
+.timeline-badge.blue{
+    background-color:#DC143C !important;
+}
 
 .timeline-title {
   margin-top: 0;
