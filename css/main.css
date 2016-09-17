@@ -234,6 +234,6 @@ padding-left:90px;
     color:#FFF;
 }
 .image-bg-fixed-height {
-    background: url('.../img/book.jpg') no-repeat center center scroll;
+    background: url(/img/book.jpg) no-repeat center center scroll;
     height: 450px;
 }
