@@ -244,3 +244,6 @@ aside.img-bg-fixed-height {
 a:focus, a:hover{
     color:#670067;
 }
+.portfolio-box,.portfolio-box-caption{
+    background:#670067;
+}
