@@ -238,3 +238,6 @@ aside.img-bg-fixed-height {
     height: 700px;
     background-repeat: no-repeat;
 }
+.portfolio-box{
+    max-width:none;
+}
