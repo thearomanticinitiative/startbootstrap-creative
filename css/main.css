@@ -11,7 +11,10 @@ header{
  */
 
 hr {
-  border-color: black;
+  border-color: #1a9a00;
+}
+hr.symbols{
+    border-color:black;
 }
 a {
   color: #1a9a00;
