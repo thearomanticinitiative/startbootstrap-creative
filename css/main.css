@@ -260,3 +260,9 @@ h4.thumbnailtitle{
 i.fa.fa-tumblr.fa-3x.sr-contact {
     color: #36465d;
 }
+a.special{
+    color:white;
+}
+a.special:focus, a.special:hover{
+    color:black;
+}
