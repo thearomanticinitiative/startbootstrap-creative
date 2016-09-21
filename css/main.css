@@ -269,7 +269,7 @@ a.special:focus, a.special:hover{
 i.invert{
     color:#126B00;
 }
-div.circle-avatar{
+.circle-avatar{
 /* make it responsive */
 max-width: 100%;
 width:100%;
