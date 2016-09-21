@@ -266,3 +266,6 @@ a.special{
 a.special:focus, a.special:hover{
     color:black;
 }
+i.invert{
+    color:#1a9a00;
+}
