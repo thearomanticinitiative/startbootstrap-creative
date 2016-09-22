@@ -333,11 +333,11 @@ i.invert {
 }
 
 .col-list .t1 .col-head {
-    background-color: #FFB748;
+    background-color: #1a9a00;
 }
 
 .col-list .t2 .col-head {
-    background-color: #16CAC8;
+    background-color: ##670067;
 }
 
 .col-list .t3 .col-head {
@@ -345,18 +345,14 @@ i.invert {
 }
 
 .col-list .t1 li {
-    border-bottom: 1px solid rgba(255,183,72,.4);
+    border-bottom: 1px solid rgba(26,154,0,.4);
 }
 
 .col-list .t2 li {
-    border-bottom: 1px solid rgba(22,202,200,.4);
+    border-bottom: 1px solid rgba(103,0,103,.4);
 }
 
-.col-list .t3 li {
-    border-bottom: 1px solid rgba(248,113,82,.4);
-}
-
-.col-list .t1 li:last-child,.col-list .t2 li:last-child,.col-list .t3 li:last-child {
+.col-list .t1 li:last-child,.col-list .t2 li:last-child{
     border-bottom: 0;
 }
 
