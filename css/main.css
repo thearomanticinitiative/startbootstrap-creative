@@ -291,5 +291,87 @@ a.special:focus,a.special:hover {
 i.invert {
     color: #126B00;
 }
-.white{
-    color:white;
+
+.white {
+    color: #fff;
+}
+
+.container {
+    margin-top: 42px;
+}
+
+.inactive {
+    visibility: hidden;
+}
+
+.active {
+    background-color: #F7F7F9;
+}
+
+.col-list .col-head {
+    color: #fff;
+    border-bottom: thick solid rgba(0,0,0,0.2);
+    border-radius: 5px 5px 0 0;
+    margin-top: 45px;
+}
+
+.col-list .col-head span {
+    color: #fff;
+    font-size: 3em;
+    padding: 15px;
+    border: thick solid #fff;
+    border-radius: 50%;
+    margin-top: -45px;
+    background-color: #BE1E2D;
+}
+
+.col-list .col-head h2 {
+    margin-top: 7px;
+    margin-bottom: 5px;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.col-list .t1 .col-head {
+    background-color: #FFB748;
+}
+
+.col-list .t2 .col-head {
+    background-color: #16CAC8;
+}
+
+.col-list .t3 .col-head {
+    background-color: #F87152;
+}
+
+.col-list .t1 li {
+    border-bottom: 1px solid rgba(255,183,72,.4);
+}
+
+.col-list .t2 li {
+    border-bottom: 1px solid rgba(22,202,200,.4);
+}
+
+.col-list .t3 li {
+    border-bottom: 1px solid rgba(248,113,82,.4);
+}
+
+.col-list .t1 li:last-child,.col-list .t2 li:last-child,.col-list .t3 li:last-child {
+    border-bottom: 0;
+}
+
+.col-list li p {
+    font-size: 1.2em;
+    padding: 7px;
+    margin: 0;
+}
+
+.col-list li:hover {
+    background-color: #F7F7F9;
+}
+
+.option span {
+    color: rgba(162,213,0,1);
+    margin-left: 7px;
+    margin-right: 7px;
+}
