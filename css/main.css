@@ -315,7 +315,7 @@ i.invert {
     margin-top: 45px;
 }
 
-.col-list .col-head span {
+.col-list .col-head i,custom{
     color: #fff;
     font-size: 3em;
     padding: 15px;
@@ -366,7 +366,7 @@ i.invert {
     background-color: #F7F7F9;
 }
 
-.option span {
+.option i.custom{
     color: rgba(162,213,0,1);
     margin-left: 7px;
     margin-right: 7px;
