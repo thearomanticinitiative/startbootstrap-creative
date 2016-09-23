@@ -375,3 +375,6 @@ i.invert {
     margin-left: 7px;
     margin-right: 7px;
 }
+img.musicimg{
+    max-height:300px;
+}
