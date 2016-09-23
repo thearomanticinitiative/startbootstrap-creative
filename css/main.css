@@ -378,3 +378,6 @@ i.invert {
 img.musicimg{
     max-height:300px;
 }
+div.artist{
+    margin:42px;
+}
