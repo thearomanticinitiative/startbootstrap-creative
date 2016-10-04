@@ -381,5 +381,7 @@ div.artist{
     margin:42px;
 }
 .poem-title{
-    font-family:"Mr De Haviland", sans-serif
+    font-family:"Mr De Haviland", sans-serif;
+    font-size: 60px;
+        
 }
