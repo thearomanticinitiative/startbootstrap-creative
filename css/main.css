@@ -380,3 +380,11 @@ img.musicimg{
 div.artist{
     margin:42px;
 }
+@font-face {
+    font-family: 'chopinscriptmedium';
+    src: url('chopinscript-webfont.woff2') format('woff2'),
+         url('chopinscript-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
