@@ -434,3 +434,9 @@ div.artist{
 .dropdown-submenu:hover>a:after {
   border-left-color: #ffffff;
 }
+header .header-content .header-content-inner p {
+    font-weight: 300;
+    color: black; 
+    font-size: 16px;
+    margin-bottom: 50px;
+}
