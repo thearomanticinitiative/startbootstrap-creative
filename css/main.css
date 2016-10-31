@@ -449,3 +449,7 @@ ul.nav li a{
 .navbar-default .nav>li>a, .navbar-default .nav>li>a:focus {
     /* color: black; */
 }
+section.emergency {
+    background-color: #ff1a00;
+    color: white;
+}
