@@ -2,6 +2,13 @@
 <html lang="en">
 
     <head>
+        <script>
+            $(document).ready(function () {
+             $("#drpdwn").on("focus",function() {
+             $(this).dropdown("open");
+                 });
+               });
+        </script>
     <meta charset="utf-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -51,7 +58,7 @@
                      </li>
                     <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href=
-                        "#">What is...?</a>
+                        "#" id="drpdwn">What is...?</a>
                         <ul class="dropdown-menu">
                             <li>
                                 <a class="drpdwn" href="whatis.html">What is
@@ -69,7 +76,7 @@
                     </li>
                     <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href=
-                        "#">Arts and Lit</a>
+                        "#" id="drpdwn">Arts and Lit</a>
                         <ul class="dropdown-menu">
                             <li>
                                 <a class="drpdwn" href="gallery.html">Art
@@ -91,7 +98,7 @@
                     </li>
                     <li class="dropdown" id="parentMenu">
                         <a class="dropdown-toggle" data-toggle="dropdown" href=
-                        "#">Articles & Reference</a>
+                        "#" id="drpdwn">Articles & Reference</a>
                         <ul class="dropdown-menu">
                              <li>
                                 <a class="drpdwn" href=
@@ -113,7 +120,7 @@
                     </li>
                     <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href=
-                        "#">Videos, Blogs, and Projects</a>
+                        "#"id="drpdwn">Videos, Blogs, and Projects</a>
                         <ul class="dropdown-menu">
                             <li>
                                 <a class="drpdwn" href="videos.html">Videos</a>
