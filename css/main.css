@@ -460,8 +460,7 @@ body
     padding-top: 30px;
 }
 
-h1
-{
+h1.articles{
 font-family: 'News Cycle', sans-serif;
 }
 article
@@ -499,7 +498,6 @@ font-size: 20px;
 }
 }
 
-.article-caption a
-{
+.article-caption a{
 color: white;
 }
