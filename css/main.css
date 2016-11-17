@@ -6,11 +6,17 @@ header {
 .center{
     text-align:center;
 }
+article-title{
+    margin-top:100px; 
+}
+
+
 /*!
  * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
 hr {
     border-color: #178A00;
 }
