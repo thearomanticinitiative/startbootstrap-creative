@@ -555,12 +555,12 @@ color: white;
 #carousel figure:nth-child(8) { transform: rotateY(280deg) translateZ(288px);}
 #carousel figure:nth-child(9) { transform: rotateY(320deg) translateZ(288px);}
 
-img{
+carousel.img{
 	-webkit-filter: grayscale(1);
 	cursor: pointer;
 	transition: all .5s ease;
 }
-img:hover{
+carousel.img:hover{
 	-webkit-filter: grayscale(0);
   transform: scale(1.2,1.2);
 }
