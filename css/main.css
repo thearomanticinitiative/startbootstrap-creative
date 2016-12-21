@@ -23,6 +23,9 @@ hr {
     border-color: #178A00;
     text-align: center;
 }
+hr.left{
+	text-align:left;
+}
 
 hr.symbols {
     border-color: #000;
